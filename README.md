@@ -1,24 +1,18 @@
-### Hi there I'm Girish!! 👋
-I'm an Automation Test Engineer trying my hands on new test automation tools and technologies.
+<h1 align="center">Hi 👋, I'm Girish Nair!!</h1>
+<h3 align="center">I'm an Automation Test Engineer trying my hands on new test automation tools and technologies.</h3>
 
-- 🌱 I’m currently learning Javascript frameworks such as Cypress, Codeceptjs & API Testing using Postman 
-- 📫 Find me on Linkedin: <a href="https://in.linkedin.com/in/girish-g-nair">linkedin.com/in/girish-g-nair</a> <br>
-- 💬 If you have any exciting new opportunities for me, email at: <a href = "mailto: Girish-g-nair@outlook.com">Girish-G-nair@outlook.com </a>
-- 😄 Pronouns: he/him/er
-- ⚡ Fun fact: I love playing 8 ball pool on miniclip, so if you're up for a quick game do let me know!! 
+- 🌱 I’m currently learning **Mobile App automation testing using Appium**
 
-<!--
-**JavaGirish/JavaGirish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🤝 I’m looking for help with **Appium**
 
-Here are some ideas to get you started:
+- 📫 How to reach me **You can reach me via Linkedin or email me at Girish-G-Nair[at]outlook.com**
 
+- ⚡ Fun fact **I love playing 8 ball pool on miniclip, so if you're up for a quick game do let me know!!**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/girish-g-nair" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="girish-g-nair" height="30" width="40" /></a>
+</p>
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-
-- 🔭 I’m currently working on exploring new tools and technologies that would make an 
-
-
-
--->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
